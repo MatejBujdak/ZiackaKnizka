@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ziackaknizka</string>
+    <string name="studenti">Študenti:</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="zatvorit">Zatvoriť</string>
+    <string name="zadajte_novu_ulohu">Zadajte novú úlohu ...</string>
+    <string name="zadajte_popis_k_ulohe">Zadajte popis k úlohe ...</string>
+    <string name="potvrdit">Potvrdiť</string>
+</resources>
